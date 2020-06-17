@@ -1,0 +1,21 @@
+.background-image-container {
+	padding:20% 0;
+}
+
+.btn-primary {
+	background-image: none;
+	border-radius: 50px;
+	background-color: #569532;
+}
+
+.btn-primary:hover {
+	background-image: none;
+	background-color: #356F13;
+	border-color: #356F13;
+	border-width: 4px;
+}
+
+.alpha {
+	font-family: 'Arizonia', cursive;
+	font-size: 70px;
+}
